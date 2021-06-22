@@ -1,4 +1,4 @@
-### Hi there 👋
+[![starkayc header](https://github.com/starkayc/starkayc/blob/main/gh-banner.png)](https://starkayc.moe)
 
 <!--
 **starkayc/starkayc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
